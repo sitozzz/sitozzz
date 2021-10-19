@@ -9,3 +9,11 @@
 [gmail]: mailto:sit7602@gmail.com
 [linkedin]: https://www.linkedin.com/in/ivan-sitnikov-650ba2203
 [instagram]: https://www.instagram.com/sitozzz_rulozzz/
+
+<br/><br/>
+
+#### Some account info:
+
+[![sitozzz GitHub stats](https://github-readme-stats.vercel.app/api?username=sitozzz)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitozzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
