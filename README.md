@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Sitnikov Ivan aka @sitozzz
 - 👀 I’m interested in web technologies & devops
+- 📚 I'm currently studying: Golang, Ansible & K8s
 
 #### My socials:
 [<img align="left" alt="sitozzz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
