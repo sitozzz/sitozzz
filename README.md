@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitozzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172579%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -41,5 +41,5 @@
 ```
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
