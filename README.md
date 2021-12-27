@@ -17,7 +17,7 @@
 
 [![sitozzz GitHub stats](https://github-readme-stats.vercel.app/api?username=sitozzz)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitozzz&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitozzz&layout=compact&cache_seconds=1800&hide=c#,html)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173%20Thousand%20lines%20of%20code-blue)
