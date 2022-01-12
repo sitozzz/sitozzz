@@ -20,15 +20,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitozzz&layout=compact&cache_seconds=1800&hide=c#,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2058%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-🌆 Daytime    175 commits    ███████████████████░░░░░░   79.19% 
+🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+🌆 Daytime    179 commits    ████████████████████░░░░░   81.0% 
 🌃 Evening    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
 
@@ -43,5 +41,5 @@
 ```
 
 
- Last Updated on 11/01/2022
+ Last Updated on 12/01/2022
 <!--END_SECTION:waka-->
